@@ -58,17 +58,17 @@ The primary objective of this project is to assess the robustness of the DistilB
 
 ### In-Domain (SAMSum Test Set)
 
-- **ROUGE-1:** 0.xxxx
-- **ROUGE-2:** 0.xxxx
-- **ROUGE-L:** 0.xxxx
-- **ROUGE-Lsum:** 0.xxxx
+- **ROUGE-1:** 0.3989
+- **ROUGE-2:** 0.2010
+- **ROUGE-L:** 0.3051
+- **ROUGE-Lsum:** 0.3053
 
 ### Out-of-Domain (XSum Test Subset)
 
-- **ROUGE-1:** 0.xxxx
-- **ROUGE-2:** 0.xxxx
-- **ROUGE-L:** 0.xxxx
-- **ROUGE-Lsum:** 0.xxxx
+- **ROUGE-1:** 0.2010
+- **ROUGE-2:** 0.0382
+- **ROUGE-L:** 0.1328
+- **ROUGE-Lsum:** 0.1329
 
 ## Conclusion
 
