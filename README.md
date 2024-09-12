@@ -1,4 +1,4 @@
-# Robustness of DistilBART-cnn-12-6 in Dialogue and News Summarization
+# Robustness of DistilBART-cnn-12-6 in Dialogue Summarization
 
 ## Table of Contents
 
